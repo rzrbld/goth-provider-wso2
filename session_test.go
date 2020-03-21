@@ -2,7 +2,7 @@ package wso2_test
 
 import (
 	"github.com/markbates/goth"
-	"github.com/rzrbld/goth/providers/wso2"
+	"github.com/rzrbld/goth-provider-wso2"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

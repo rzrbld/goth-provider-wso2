@@ -6,7 +6,7 @@ import (
 
 	"github.com/jarcoal/httpmock"
 	"github.com/markbates/goth"
-	"github.com/rzrbld/goth/providers/wso2"
+	"github.com/rzrbld/goth-provider-wso2"
 	"github.com/stretchr/testify/assert"
 )
 
